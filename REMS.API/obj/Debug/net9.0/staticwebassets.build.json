@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "alkTldT1A8G3Cr/RZ5nqDeAc9Wj/JK+m5i6YB7nqyJ8=",
+  "Source": "REMS.API",
+  "BasePath": "_content/REMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

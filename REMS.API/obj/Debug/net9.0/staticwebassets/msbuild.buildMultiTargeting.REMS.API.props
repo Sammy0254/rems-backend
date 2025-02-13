@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REMS.API.props" />
+</Project>
