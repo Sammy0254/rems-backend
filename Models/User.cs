@@ -4,5 +4,4 @@ public class User {
     public string Email { get; set; }
     public string PasswordHarsh { get; set; }
     public string Role { get; set; } // Admin, Agent, Client 
-
 }
